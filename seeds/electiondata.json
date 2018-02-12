@@ -1,0 +1,46 @@
+{
+    "_id" : "E_id_111",
+    "Title" : "Ice Cream",
+    "Type" : "ranked",
+    "Pos1" : "Most Awesome",
+    "Selections1" : [
+        "C_id_111",
+        "C_id_112",
+        "C_id_113"
+    ],
+    "Pos2" : "Most Awful",
+    "Selections2" : [
+        "C_id_114",
+        "C_id_115",
+        "C_id_116"
+    ],
+    "Pos3" : "Favorite Kind",
+    "Selections3" : [
+        "C_id_117",
+        "C_id_118",
+        "C_id_119"
+    ]
+},
+{
+    "_id" : "E_id_112",
+    "Title" : "Pie",
+    "Type" : "select1",
+    "Pos1" : "Best for Thanksgiving",
+    "Selections1" : [
+        "C_id_120",
+        "C_id_121",
+        "C_id_122"
+    ],
+    "Pos2" : "Best for July 4th",
+    "Selections2" : [
+        "C_id_123",
+        "C_id_124",
+        "C_id_125"
+    ],
+    "Pos3" : "Best crust",
+    "Selections3" : [
+        "C_id_126",
+        "C_id_127",
+        "C_id_128"
+    ]
+}

@@ -1,0 +1,65 @@
+.container{
+	width: 100%;
+	margin-left: 0;
+	margin-right: 0;
+	padding: 0;
+	max-width: 5000px;
+}
+
+#bodysection{
+	padding: 25px;
+}
+
+/*NAVBAR ELEMENTS*/
+
+.navbar{
+	width: 100%;
+	background-color: #ACDDE5;
+}
+
+.brand-name{
+	margin: 0 auto;
+	padding-right: 10px;
+}
+
+.brand-name a:hover{
+	text-decoration: none;
+}
+
+/*FORM ELEMENTS*/
+
+.canForm{
+	display: block;
+	padding-left: 20px;
+	margin: 5px;
+}
+
+.button{
+	margin: 10px;
+	cursor: pointer;
+}
+
+.addbutton{
+	margin-left: 20px;
+}
+
+.subbutton{
+	font-weight: bold;
+	color: red;
+}
+
+.radio{
+	padding-left: 20px;
+}
+
+input{
+	margin: 5px;
+}
+
+.electiontitle{
+	font-weight: bold;
+}
+
+#etype{
+	display: block;
+}
